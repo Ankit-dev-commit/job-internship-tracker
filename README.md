@@ -2,6 +2,9 @@
 
 A full-stack web application designed to help users track job and internship applications throughout the recruitment lifecycle.
 
+## Live Demo
+[Job & Internship Tracker](https://job-internship-tracker-lemon.vercel.app)
+
 > **Project Phase**: Initial Setup & Scaffolding  
 > *Note: Database models, authentication, and full application features will be implemented in subsequent phases.*
 
